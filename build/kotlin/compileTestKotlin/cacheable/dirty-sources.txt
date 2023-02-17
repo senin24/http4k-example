@@ -1,0 +1,2 @@
+/Users/pavelsenin/git/TEMP/HelloWorld/src/test/kotlin/com/github/senin24/http4k/HelloWorldClient.kt
+/Users/pavelsenin/git/TEMP/HelloWorld/src/test/kotlin/com/github/senin24/http4k/HelloWorldTest.kt
